@@ -7,7 +7,7 @@ guanchang.wu@cba.com.au
 * SQLite
 
 ### Pros:
-* Seems to have a lot of properly backend and api work
+* Seems to have a lot of proper backend and api work
 
 ### Cons:
 * Uses PEGA which is not ideal
@@ -22,6 +22,8 @@ https://github.com/CBA-General/BusinessBankingServices.CommBiz.CommBizAI/pull/26
 
 ### Grad currently on the team:
 * Holly Standish
+
+-------------------
 
 ## 2. Murex Platform Engineering Foundations
 benjamin.pick@cbaiq.com.au 
@@ -54,6 +56,8 @@ https://github.com/CBA-General/mx-environment-manager/pull/384
 * Tim Xue
 * Devin Goralsky
 
+-------------------
+
 ## 3. Electronic Trading & Trading Portals Crew
 david.chan1@cba.com.au 
 
@@ -83,6 +87,8 @@ https://commbank.atlassian.net/jira/software/c/projects/EFIR/boards/58466
 ### Grad currently on the team:
 * Neb Bezwayewh
  
+-------------------
+
 ## 4. Risk Change & Reporting Crew
 dyah.purnomo@cba.com.au 
 
@@ -109,6 +115,8 @@ https://cba.teamform.co/teams/X5SFZ1F0/details
 
 ### Grad currently on the team:
  
+-------------------
+
 ## 5. Risk Change & Reporting Crew
 gokul.rameshkumar@cba.com.au 
 
@@ -138,6 +146,8 @@ https://commbank.atlassian.net/jira/software/c/projects/TRL/boards/62814
 
 ### Grad currently on the team:
  
+-------------------
+
 ## 6. Quants, Data, Analytics & Technology Domain
 Alistair.MacArthur@cba.com.au 
 
@@ -169,6 +179,8 @@ https://cba.teamform.co/teams/8L6GFEH8/details
 ### Jira board:
 https://commbank.atlassian.net/jira/software/c/projects/IDAP/boards/64253
 
+-------------------
+
 ## 7. Consumer Finance
 andrew.chen2@cba.com.au 
 
@@ -194,6 +206,8 @@ https://commbank.atlassian.net/jira/software/c/projects/CRDCM/boards/61657
 * Shuyi Ruan
 * Surya Kannon
  
+-------------------
+
 ## 8. Everyday Banking
 simon.hudson@cba.com.au 
 
@@ -223,6 +237,8 @@ https://cba.teamform.co/teams/DJKREIZY/details
 * Zixi Chen but she said she doesn't like the team because of "too much talking" (https://cba.teamform.co/teams/NW55A5HW/details)
 * Anthony Lee (https://cba.teamform.co/teams/PGW21TX5/details)
  
+-------------------
+
 ## 9. python github action
 bgar@cba.com.au 
 

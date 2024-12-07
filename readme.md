@@ -1,4 +1,4 @@
-## CommBiz AI Acceleration
+## 1. CommBiz AI Acceleration
 guanchang.wu@cba.com.au 
 
 ### Tech stacks:
@@ -23,7 +23,7 @@ https://github.com/CBA-General/BusinessBankingServices.CommBiz.CommBizAI/pull/26
 ### Grad currently on the team:
 * Holly Standish
 
-## Murex Platform Engineering Foundations
+## 2. Murex Platform Engineering Foundations
 benjamin.pick@cbaiq.com.au 
 
 ### Tech stacks:
@@ -54,7 +54,7 @@ https://github.com/CBA-General/mx-environment-manager/pull/384
 * Tim Xue
 * Devin Goralsky
 
-## Electronic Trading & Trading Portals Crew
+## 3. Electronic Trading & Trading Portals Crew
 david.chan1@cba.com.au 
 
 ### Tech stacks:
@@ -83,7 +83,7 @@ https://commbank.atlassian.net/jira/software/c/projects/EFIR/boards/58466
 ### Grad currently on the team:
 * Neb Bezwayewh
  
-## Risk Change & Reporting Crew
+## 4. Risk Change & Reporting Crew
 dyah.purnomo@cba.com.au 
 
 ### Tech stacks:
@@ -109,7 +109,7 @@ https://cba.teamform.co/teams/X5SFZ1F0/details
 
 ### Grad currently on the team:
  
-## Risk Change & Reporting Crew
+## 5. Risk Change & Reporting Crew
 gokul.rameshkumar@cba.com.au 
 
 ### Tech stacks:
@@ -138,7 +138,7 @@ https://commbank.atlassian.net/jira/software/c/projects/TRL/boards/62814
 
 ### Grad currently on the team:
  
-## Quants, Data, Analytics & Technology Domain
+## 6. Quants, Data, Analytics & Technology Domain
 Alistair.MacArthur@cba.com.au 
 
 ### Tech stacks:
@@ -169,7 +169,7 @@ https://cba.teamform.co/teams/8L6GFEH8/details
 ### Jira board:
 https://commbank.atlassian.net/jira/software/c/projects/IDAP/boards/64253
 
-## Consumer Finance
+## 7. Consumer Finance
 andrew.chen2@cba.com.au 
 
 ### Tech stacks:
@@ -194,7 +194,7 @@ https://commbank.atlassian.net/jira/software/c/projects/CRDCM/boards/61657
 * Shuyi Ruan
 * Surya Kannon
  
-## Everyday Banking
+## 8. Everyday Banking
 simon.hudson@cba.com.au 
 
 ### Tech stacks:
@@ -223,7 +223,7 @@ https://cba.teamform.co/teams/DJKREIZY/details
 * Zixi Chen but she said she doesn't like the team because of "too much talking" (https://cba.teamform.co/teams/NW55A5HW/details)
 * Anthony Lee (https://cba.teamform.co/teams/PGW21TX5/details)
  
-## python github action
+## 9. python github action
 bgar@cba.com.au 
 
 This one is my team?

@@ -1,4 +1,5 @@
-## guanchang.wu@cba.com.au CommBiz AI Acceleration
+## CommBiz AI Acceleration
+guanchang.wu@cba.com.au 
 
 ### Tech stacks:
 * PEGA
@@ -22,7 +23,8 @@ https://github.com/CBA-General/BusinessBankingServices.CommBiz.CommBizAI/pull/26
 ### Grad currently on the team:
 * Holly Standish
 
-## benjamin.pick@cbaiq.com.au Murex Platform Engineering Foundations
+## Murex Platform Engineering Foundations
+benjamin.pick@cbaiq.com.au 
 
 ### Tech stacks:
 * Angular
@@ -52,7 +54,8 @@ https://github.com/CBA-General/mx-environment-manager/pull/384
 * Tim Xue
 * Devin Goralsky
 
-## david.chan1@cba.com.au Electronic Trading & Trading Portals Crew
+## Electronic Trading & Trading Portals Crew
+david.chan1@cba.com.au 
 
 ### Tech stacks:
 * Github action
@@ -80,7 +83,8 @@ https://commbank.atlassian.net/jira/software/c/projects/EFIR/boards/58466
 ### Grad currently on the team:
 * Neb Bezwayewh
  
-## dyah.purnomo@cba.com.au Risk Change & Reporting Crew
+## Risk Change & Reporting Crew
+dyah.purnomo@cba.com.au 
 
 ### Tech stacks:
 * SOP
@@ -105,7 +109,8 @@ https://cba.teamform.co/teams/X5SFZ1F0/details
 
 ### Grad currently on the team:
  
-## gokul.rameshkumar@cba.com.au Risk Change & Reporting Crew
+## Risk Change & Reporting Crew
+gokul.rameshkumar@cba.com.au 
 
 ### Tech stacks:
 * Unkonwn
@@ -133,7 +138,8 @@ https://commbank.atlassian.net/jira/software/c/projects/TRL/boards/62814
 
 ### Grad currently on the team:
  
-## Alistair.MacArthur@cba.com.au Quants, Data, Analytics & Technology Domain
+## Quants, Data, Analytics & Technology Domain
+Alistair.MacArthur@cba.com.au 
 
 ### Tech stacks:
 * SOP
@@ -163,7 +169,8 @@ https://cba.teamform.co/teams/8L6GFEH8/details
 ### Jira board:
 https://commbank.atlassian.net/jira/software/c/projects/IDAP/boards/64253
 
-## andrew.chen2@cba.com.au Consumer Finance
+## Consumer Finance
+andrew.chen2@cba.com.au 
 
 ### Tech stacks:
 * AWS (DHP)
@@ -187,7 +194,8 @@ https://commbank.atlassian.net/jira/software/c/projects/CRDCM/boards/61657
 * Shuyi Ruan
 * Surya Kannon
  
-## simon.hudson@cba.com.au Everyday Banking
+## Everyday Banking
+simon.hudson@cba.com.au 
 
 ### Tech stacks:
 This one really teams on which team...
@@ -215,6 +223,8 @@ https://cba.teamform.co/teams/DJKREIZY/details
 * Zixi Chen but she said she doesn't like the team because of "too much talking" (https://cba.teamform.co/teams/NW55A5HW/details)
 * Anthony Lee (https://cba.teamform.co/teams/PGW21TX5/details)
  
-## bgar@cba.com.au python github action
+## python github action
+bgar@cba.com.au 
+
 This one is my team?
 
